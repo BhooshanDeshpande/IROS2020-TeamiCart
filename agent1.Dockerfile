@@ -45,4 +45,4 @@ RUN /bin/bash -c "source /opt/ros/melodic/setup.bash; cd catkin_ws; catkin_make;
 SHELL ["/bin/bash", "-c"] 
 
 # Setting entry point command that runs when the container is brought up
-CMD source /catkin_ws/devel/setup.bash; roslaunch --wait icart_pkg ego.launch;
+CMD source /catkin_ws/devel/setup.bash; roslaunch --wait icart_pkg opp.launch;

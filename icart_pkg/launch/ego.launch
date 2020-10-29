@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+
+<node pkg="icart_pkg" type="iros_icart_Oct25.py" name="icart_node" output="screen"/>
+
+</launch>

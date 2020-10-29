@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<launch>
+  
+<include file="$(find icart_pkg)/launch/gym_bridge_host.launch"/>
+
+<node pkg="icart_pkg" type="dummy_agent_node.py" name="dummy_agent" output="screen"/>
+
+
+  </launch>
