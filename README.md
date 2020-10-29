@@ -4,9 +4,6 @@ This is the submission folder for final RACE for IROS 2020. This code is an adva
 
 Code Script: `icart_pkg / src / iros_icart.py`
 
-## Map file - 
-<img src="media/vegas.png">
-
 ## Vehicle Performance on the race track (Snapshot) :
 ![](GIF.gif)
 
@@ -22,6 +19,12 @@ Bhooshan Deshpande (bhooshd@g.clsemson.edu), Adhiti Raman, Huzefa Kagalwala, Sid
 
 Faculty Advisor :
 Dr. Venkat N. Krovi
+
+## Participation Certificate
+<img src="media/vegas.png">
+
+## Map file - 
+<img src="media/vegas.png">
 
 # F1TENTH Competition Docker Agent Template
 
