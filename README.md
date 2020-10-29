@@ -21,7 +21,7 @@ Faculty Advisor :
 Dr. Venkat N. Krovi
 
 ## Participation Certificate
-<img src="media/certificate.PNG">
+<img src="media/certificate.PNG" width ="500">
 
 ## Map file - 
-<img src="media/vegas.png" width="200">
+<img src="media/vegas.png" width="400">
