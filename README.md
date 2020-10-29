@@ -5,7 +5,9 @@ This is the submission folder for final RACE for IROS 2020. This code is an adva
 Code Script: `icart_pkg / src / iros_icart.py`
 
 ## Vehicle Performance on the race track (Snapshot) :
+<p align="center">
 ![](GIF.gif)
+</p>
 
 ## Steps to run the code: 
 1. Open terminal and run `$ roscore` 
