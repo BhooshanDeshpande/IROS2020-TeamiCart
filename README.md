@@ -24,4 +24,4 @@ Dr. Venkat N. Krovi
 <img src="media/certificate.PNG">
 
 ## Map file - 
-<img src="media/vegas.png">
+<img src="media/vegas.png" = 250x>
